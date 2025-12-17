@@ -1,0 +1,39 @@
+body{
+    font-family: Constantia ;
+    background-color:antiquewhite;
+}
+ 
+h1{
+    font-family: Constantia ;
+}
+
+.customfont{
+    font-family: Chiller !important; 
+    /* add after <h1 class =  to attribute, */
+}
+
+h2{
+    color:rgb(167, 141, 106);
+    background-color:antiquewhite;
+}
+
+h5, h6{
+    color: rgb(167, 141, 106);
+}
+
+.imagecustom{
+    width: 30%;
+    left: 0;
+    right: 0;
+}
+
+.resumeimage{
+    width: 70%;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+
+#gators{
+    background-color:rgba(33, 31, 28, 0.58);
+}
